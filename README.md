@@ -95,6 +95,6 @@ B.Tech — Computer Science Engineering
 
 📧 **prashanth270605@gmail.com**
 
-🔗 **GitHub:** YOUR_GITHUB_LINK
+🔗 **GitHub:** 
 
-🔗 **LinkedIn:** YOUR_LINKEDIN_LINK
+🔗 **LinkedIn:** https://www.linkedin.com/in/prashanth-kumar-mangali-87b8a4290/
