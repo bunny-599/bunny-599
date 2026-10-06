@@ -1,109 +1,100 @@
-<div align="center">
+# Hi 👋, I'm Mangali Prashanth Kumar
 
-Prashanth Kumar
+### Computer Science Undergraduate | Full-Stack Developer | AI/ML Enthusiast
 
-Software Developer · AI/ML Enthusiast
+I'm a Computer Science student at **CMR Technical Campus** who enjoys building
+full-stack applications and exploring AI/ML technologies.
 
-Building full-stack applications and practical AI/ML systems.
+I have a strong interest in **software development, problem solving,
+Data Structures & Algorithms, and AI-powered applications.**
 
-GitHub · LinkedIn · LeetCode · Email
+---
 
-</div>
+## 👨‍💻 About Me
 
-About
+- 🎓 B.Tech Computer Science Engineering — CMR Technical Campus
+- 💻 Full-Stack Developer
+- 🤖 Interested in AI & Machine Learning
+- 🧠 Interested in Data Structures & Algorithms
+- 🚀 Currently building practical software projects
+- 🎯 Looking for Software Engineering / AI-focused opportunities
 
-Computer Science undergraduate focused on Data Structures & Algorithms, Full-Stack Development, and AI-powered applications.
+---
 
-Currently looking for an entry-level Software Engineering or AI-focused role.
+## 🛠️ Skills
 
-B.Tech CSE — CMR Technical Campus
+**Languages:**  
+JavaScript • Python • Java • C++
 
-7.79 GPA
+**Frontend:**  
+React.js • HTML • CSS
 
-Kolkata, India
+**Backend:**  
+Node.js • Express.js
 
-Tech
-
-Languages
-JavaScript · Python · Java · C++
-
-Frontend
-React.js · HTML · CSS
-
-Backend
-Node.js · Express.js · FastAPI · REST APIs
-
-Database
+**Database:**  
 PostgreSQL
 
-AI / ML
-Scikit-learn · TF-IDF · NumPy · XGBoost · Gemini / LLMs · Genetic Algorithms
+**Tools:**  
+Git • VS Code
 
-Tools
-Git · VS Code · Docker
+**AI / ML:**  
+Scikit-learn • FastAPI • Machine Learning • LLMs
 
-Selected Projects
+---
 
-ADAPTS — AI-Powered Adaptive Assessment Platform
+## 🚀 Projects
 
-Full-stack assessment platform that personalizes learning using AI.
+### ADAPTS — AI-Powered Adaptive Assessment Platform
+A full-stack assessment platform that adapts question difficulty according
+to learner performance.
 
-Built with React, TypeScript, Node.js, Express, and PostgreSQL, backed by a Python/FastAPI AI service.
+**React • TypeScript • Node.js • Express • PostgreSQL • Python • FastAPI • LLMs**
 
-Uses Gemini LLMs and web search APIs to generate personalized assessments.
+### Stock Price Range Prediction
+A stock analysis platform using market data, technical indicators,
+XGBoost and AI-powered sentiment analysis.
 
-Implemented a Genetic Algorithm that dynamically evolves question difficulty based on learner performance.
+**Python • XGBoost • Gemini • GenAI**
 
-React TypeScript Node.js Express PostgreSQL Python FastAPI LLMs
+### Personalized TED Talks Recommendation System
+A recommendation system developed during my Infosys SpringBoard internship
+using content-based and collaborative filtering techniques.
 
-Personalized TED Talks Recommendation System
+**Python • Pandas • Scikit-learn • TF-IDF • Streamlit**
 
-End-to-end machine learning recommender for matching users with relevant TED Talks.
+---
 
-Worked across data collection, EDA, preprocessing, and feature engineering using transcripts, tags, and user preferences.
+## 💼 Experience
 
-Compared content-based and collaborative filtering using TF-IDF and embedding-based vectorization.
+### Infosys SpringBoard — Virtual Internship
+**Sep 2026 – Dec 2026**
 
-Evaluated recommendations with Precision, Recall, and NDCG and deployed the system with Streamlit.
+Worked on a Personalized TED Talks Recommendation System involving
+data preprocessing, feature engineering, recommendation algorithms,
+evaluation and deployment.
 
-Python Pandas Scikit-learn TF-IDF Streamlit Machine Learning
+---
 
-Stock Price Range Prediction
+## 🏆 Achievements
 
-Machine learning system for data-driven stock analysis and price-range prediction.
+- Smart India Hackathon 2024
+- Neura X 3.0
 
-Combined live market data, technical indicators, and financial news.
+---
 
-Used XGBoost for quantitative analysis.
+## 🎓 Education
 
-Integrated Gemini to combine market trends with news sentiment and generate explainable 0–100 sentiment scores.
+**CMR Technical Campus**  
+B.Tech — Computer Science Engineering  
+2023 – 2027 | GPA: 7.79
 
-Python XGBoost Gemini GenAI
+---
 
-Experience
+## 📫 Connect With Me
 
-Infosys SpringBoard — Virtual Internship
+📧 **prashanth270605@gmail.com**
 
-Sep 2026 – Dec 2026 · Remote
+🔗 **GitHub:** YOUR_GITHUB_LINK
 
-Project: Personalized TED Talks Recommendation System
-
-Designed and built an end-to-end recommendation system covering data preparation, recommendation modeling, evaluation, and Streamlit deployment.
-
-Achievements
-
-Neura X 3.0
-
-Smart India Hackathon 2024
-
-Education
-
-CMR Technical Campus
-B.Tech — Computer Science & Engineering · Sep 2023 – May 2027
-GPA: 7.79
-
-<div align="center">
-
-Build. Learn. Improve.
-
-</div>
+🔗 **LinkedIn:** YOUR_LINKEDIN_LINK
